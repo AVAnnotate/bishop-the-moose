@@ -1,14 +1,1 @@
-{
-  "content": [],
-  "created_at": "2024-09-06T17:52:32.175Z",
-  "created_by": "absempere",
-  "title": "\"The Moose\" - Elizabeth Bishop",
-  "updated_at": "2024-09-06T17:52:32.175Z",
-  "updated_by": "absempere",
-  "parent": "9a98f539-b90a-4a0a-b980-383815dc928d",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "1a0622c2-f7b4-4774-a52f-3ccbab256310"
-  }
-}
+{"content":[],"created_at":"2024-09-06T17:52:32.175Z","created_by":"absempere","title":"\"The Moose\" - Elizabeth Bishop","updated_at":"2024-09-06T17:52:32.175Z","updated_by":"absempere","parent":"9a98f539-b90a-4a0a-b980-383815dc928d","autogenerate":{"enabled":true,"type":"event","type_id":"1a0622c2-f7b4-4774-a52f-3ccbab256310"}}

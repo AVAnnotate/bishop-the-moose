@@ -1,0 +1,52 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "label",
+        "description",
+        "annotations",
+        "media"
+      ],
+      "event1": {
+        "uuid": "1a0622c2-f7b4-4774-a52f-3ccbab256310",
+        "file": "5b3d7a55-fe52-452d-869b-f0f9734de71f"
+      },
+      "event2": {
+        "uuid": "22b75d57-8cde-469f-8d6c-ef27859ae841",
+        "file": "0a3bb85e-fe68-4f6e-8c2d-1bd8ffb703d5"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Event Comparison",
+  "parent": "9a98f539-b90a-4a0a-b980-383815dc928d",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "created_at": "2024-09-10T17:24:04.366Z",
+  "created_by": "absempere",
+  "updated_at": "2024-09-10T17:24:04.366Z",
+  "updated_by": "absempere"
+}

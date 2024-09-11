@@ -3,10 +3,10 @@
   "created_at": "2024-09-06T17:51:08.361Z",
   "created_by": "absempere",
   "title": "Elizabeth Bishop's \"The Moose\"",
-  "updated_at": "absempere",
-  "updated_by": "2024-09-06T17:51:08.361Z",
+  "updated_at": "2024-09-11T19:35:41.651Z",
+  "updated_by": "absempere",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }

@@ -38,7 +38,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Elizabeth Bishop, childless cat lady."
+          "text": "Elizabeth Bishop, "
+        },
+        {
+          "text": "childless cat lady",
+          "italic": true
+        },
+        {
+          "text": ". ("
+        },
+        {
+          "text": "Img src",
+          "link": "https://www.vogue.com/article/beyond-words-an-exhibition-of-artworks-by-poet-elizabeth-bishop"
+        },
+        {
+          "text": ")"
         }
       ]
     },
@@ -89,6 +103,6 @@
   },
   "created_at": "2024-09-10T17:24:04.366Z",
   "created_by": "absempere",
-  "updated_at": "2024-09-13T12:57:07.147Z",
+  "updated_at": "2024-09-13T12:57:51.225Z",
   "updated_by": "absempere"
 }

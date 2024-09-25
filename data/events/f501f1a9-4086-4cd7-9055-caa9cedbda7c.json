@@ -12,6 +12,16 @@
   "label": "Hearing Lived Experience",
   "created_at": "2024-09-25T17:35:27.192Z",
   "created_by": "absempere",
-  "updated_at": "2024-09-25T17:42:06.208Z",
-  "updated_by": "absempere"
+  "updated_at": "2024-09-25T17:46:30.861Z",
+  "updated_by": "absempere",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hearing Lived Experience"
+        }
+      ]
+    }
+  ]
 }

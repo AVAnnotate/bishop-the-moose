@@ -3,7 +3,8 @@
     "e0fe7873-d9ff-49a5-85e6-66db0eb3743c": {
       "label": "Annotating a Duality of Spaces in Muriel Rukeyser's \"The Speed of Darkness\"",
       "is_offline": false,
-      "file_url": "https://ia801403.us.archive.org/9/items/muriel_rukeyser_i006-11-162/muriel_rukeyser_i006-11-162.mp3"
+      "file_url": "https://ia801403.us.archive.org/9/items/muriel_rukeyser_i006-11-162/muriel_rukeyser_i006-11-162.mp3",
+      "duration": 3084
     }
   },
   "auto_generate_web_page": true,
@@ -11,6 +12,6 @@
   "label": "Annotating a Duality of Spaces in Muriel Rukeyser's \"The Speed of Darkness\"",
   "created_at": "2024-09-25T17:35:27.192Z",
   "created_by": "absempere",
-  "updated_at": "2024-09-25T17:35:27.192Z",
+  "updated_at": "2024-09-25T17:39:14.606Z",
   "updated_by": "absempere"
 }

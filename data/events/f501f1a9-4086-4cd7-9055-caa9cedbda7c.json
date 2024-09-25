@@ -3,7 +3,8 @@
     "73ffa51b-0d65-48ec-aeb2-16031f97ecb1": {
       "label": "Hearing Lived Experience",
       "is_offline": false,
-      "file_url": "https://soundbox.ok.ubc.ca/wp-content/uploads/2023/02/Performing-the-Archive%EF%BC%9A-Leaf-leaf%E2%A7%B8s-by-Daphne-Marlatt.mp3"
+      "file_url": "https://soundbox.ok.ubc.ca/wp-content/uploads/2023/02/Performing-the-Archive%EF%BC%9A-Leaf-leaf%E2%A7%B8s-by-Daphne-Marlatt.mp3",
+      "duration": 707
     }
   },
   "auto_generate_web_page": true,
@@ -11,6 +12,6 @@
   "label": "Hearing Lived Experience",
   "created_at": "2024-09-25T17:35:27.192Z",
   "created_by": "absempere",
-  "updated_at": "2024-09-25T17:35:27.192Z",
+  "updated_at": "2024-09-25T17:39:25.833Z",
   "updated_by": "absempere"
 }

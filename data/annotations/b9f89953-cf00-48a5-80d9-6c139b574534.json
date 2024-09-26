@@ -66,7 +66,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Bishop"
+        }
+      ],
       "uuid": "7335e16a-d93e-4333-9af2-2a57a3d4f4a5"
     }
   ],

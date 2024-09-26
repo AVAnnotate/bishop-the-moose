@@ -108,8 +108,8 @@
       "uuid": "1506f5d8-5e2f-4873-8be5-31f1399219c4"
     },
     {
-      "start_time": 88,
-      "end_time": 91,
+      "start_time": 87,
+      "end_time": 92,
       "annotation": [
         {
           "type": "paragraph",
@@ -136,6 +136,10 @@
         {
           "category": "Speaker",
           "tag": "Elizabeth Bishop"
+        },
+        {
+          "category": "Reactions",
+          "tag": "Audience laughter"
         }
       ],
       "uuid": "d96dd0d2-89f9-4659-8bc6-9d82b457188f"

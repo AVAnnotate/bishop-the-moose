@@ -7,7 +7,7 @@
   "users": [],
   "project": {
     "github_org": "AVAnnotate",
-    "title": "Readings of Elizabeth Bishop",
+    "title": "Readings of poems by Elizabeth Bishop",
     "description": "Testing AVAnnotate",
     "language": "en",
     "slug": "bishop-the-moose",
@@ -79,6 +79,6 @@
       ]
     },
     "created_at": "2024-09-06T17:51:08.334Z",
-    "updated_at": "2024-09-26T16:02:42.401Z"
+    "updated_at": "2024-09-26T16:05:44.494Z"
   }
 }

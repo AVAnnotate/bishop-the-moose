@@ -1,1 +1,76 @@
-{"annotations":[{"start_time":0,"end_time":8,"annotation":[{"type":"paragraph","children":[{"text":"Oh, but it is dirty!"}]},{"type":"paragraph","children":[{"text":"—this little filling station,"}]},{"type":"paragraph","children":[{"text":"oil-soaked, oil-permeated"}]}],"tags":[],"uuid":"b1120740-6292-414b-8ab6-233bbfba399c"},{"start_time":8,"end_time":14,"annotation":[{"type":"paragraph","children":[{"text":"to a disturbing, over-all"}]},{"type":"paragraph","children":[{"text":"black translucency."}]},{"type":"paragraph","children":[{"text":"Be careful with that match!"}]}],"tags":[],"uuid":"7335e16a-d93e-4333-9af2-2a57a3d4f4a5"}],"set":"Default","event_id":"128818f1-5e33-4e17-962d-fcd4282219b2","source_id":"ff5048f0-6b5a-4640-8ad1-13dc6f66988e"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, but it is dirty!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "—this little filling station,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "oil-soaked, oil-permeated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Bishop"
+        }
+      ],
+      "uuid": "b1120740-6292-414b-8ab6-233bbfba399c"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to a disturbing, over-all"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "black translucency."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Be careful with that match!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7335e16a-d93e-4333-9af2-2a57a3d4f4a5"
+    }
+  ],
+  "set": "Default",
+  "event_id": "128818f1-5e33-4e17-962d-fcd4282219b2",
+  "source_id": "ff5048f0-6b5a-4640-8ad1-13dc6f66988e"
+}

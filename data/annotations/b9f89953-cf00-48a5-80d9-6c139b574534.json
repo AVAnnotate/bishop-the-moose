@@ -1,5 +1,38 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, but it is dirty!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "—this little filling station,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "oil-soaked, oil-permeated"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b1120740-6292-414b-8ab6-233bbfba399c"
+    }
+  ],
   "set": "Default",
   "event_id": "128818f1-5e33-4e17-962d-fcd4282219b2",
   "source_id": "ff5048f0-6b5a-4640-8ad1-13dc6f66988e"

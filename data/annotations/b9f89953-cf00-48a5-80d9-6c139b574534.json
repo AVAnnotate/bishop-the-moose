@@ -73,6 +73,76 @@
         }
       ],
       "uuid": "7335e16a-d93e-4333-9af2-2a57a3d4f4a5"
+    },
+    {
+      "start_time": 78,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somebody waters the plant,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "or oils it, maybe. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reactions",
+          "tag": "Audience laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Bishop"
+        }
+      ],
+      "uuid": "1506f5d8-5e2f-4873-8be5-31f1399219c4"
+    },
+    {
+      "start_time": 85,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so that they softly say:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "esso—so—so—so"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reactions",
+          "tag": "Bishop laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Bishop"
+        },
+        {
+          "category": "Reactions",
+          "tag": "Audience laughter"
+        }
+      ],
+      "uuid": "d96dd0d2-89f9-4659-8bc6-9d82b457188f"
     }
   ],
   "set": "Default",

@@ -65,7 +65,7 @@ jobs:
 
       - name: Move project.json file to project directory (aviary)
         if: ${{ env.project_project_media_player == 'aviary' }}      
-        run: mv ./client/src/content/project.json ./client/src/content/project/project.json        
+        run: mv ./client/src-aviary/content/project.json ./client/src-aviary/content/project/project.json        
 
       # Only publish when directed
       - name: Setup Pages

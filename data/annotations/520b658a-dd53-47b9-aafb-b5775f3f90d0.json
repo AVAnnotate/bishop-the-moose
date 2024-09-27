@@ -1,1 +1,23 @@
-{"annotations":[],"set":"Default","event_id":"22b75d57-8cde-469f-8d6c-ef27859ae841","source_id":"0a3bb85e-fe68-4f6e-8c2d-1bd8ffb703d5"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just starting"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9cd4a018-aaba-42f6-8235-bcb856856467"
+    }
+  ],
+  "set": "Default",
+  "event_id": "22b75d57-8cde-469f-8d6c-ef27859ae841",
+  "source_id": "0a3bb85e-fe68-4f6e-8c2d-1bd8ffb703d5"
+}

@@ -40,7 +40,7 @@ jobs:
         if: ${{ env.project_project_media_player == 'aviary' }}
         uses: actions/checkout@v4
         with:
-          repository: AVAnnotate/avaiary-client
+          repository: AVAnnotate/aviary-client
           path: "./client"
           ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
 

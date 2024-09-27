@@ -39,17 +39,33 @@ jobs:
         working-directory: "./client"
         run: npm install --legacy-peer-deps
 
-      - name: Ensure a content directory
+      - name: Ensure a content directory (avannotate)
+        if: ${{ env.project_project_media_player == 'avannotate' }}
         run: mkdir -p "./client/src/content"
 
-      - name: Copy data to content directory
+      - name: Ensure a content directory (aviary)
+        if: ${{ env.project_project_media_player == 'aviary' }}
+        run: mkdir -p "./client/src-aviary/content"        
+
+      - name: Copy data to content directory (avannotate)
+        if: ${{ env.project_project_media_player == 'avannotate' }}
         run: cp -r ./data/* ./client/src/content
 
-      - name: Make a project directory if it does not exist
+      - name: Make a project directory if it does not exist (avannotate)
+        if: ${{ env.project_project_media_player == 'avannotate' }}      
         run: mkdir -p "./client/src/content/project"
 
-      - name: Move project.json file to project directory
-        run: mv ./client/src/content/project.json ./client/src/content/project/project.json
+      - name: Make a project directory if it does not exist (aviary)
+        if: ${{ env.project_project_media_player == 'aviary' }}      
+        run: mkdir -p "./client/src-aviary/content/project"        
+
+      - name: Move project.json file to project directory (avannotate)
+        if: ${{ env.project_project_media_player == 'avannotate' }}      
+        run: mv ./data/project.json ./client/src/content/project/project.json
+
+      - name: Move project.json file to project directory (aviary)
+        if: ${{ env.project_project_media_player == 'aviary' }}      
+        run: mv ./data/project.json ./client/src/content/project/project.json        
 
       # Only publish when directed
       - name: Setup Pages

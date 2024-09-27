@@ -42,8 +42,7 @@ jobs:
       - name: Ensure a content directory
         run: mkdir -p "./client/src/content"
 
-      - name: Copy data to contebnt directory
-        if: ${{ env.project_project_media_player == 'avannotate' }}
+      - name: Copy data to content directory
         run: cp -r ./data/* ./client/src/content
 
       - name: Make a project directory if it does not exist

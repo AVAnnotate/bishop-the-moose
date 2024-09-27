@@ -29,28 +29,11 @@ jobs:
           prefix: project
 
       - name: Checkout project-client
-        if: ${{ env.project_project_media_player == 'avannotate' }}
         uses: actions/checkout@v4
         with:
           repository: AVAnnotate/project-client
           path: "./client"
           ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
-
-      - name: Checkout aviary-client
-        if: ${{ env.project_project_media_player == 'aviary' }}
-        uses: actions/checkout@v4
-        with:
-          repository: AVAnnotate/aviary-client
-          path: "./client"
-          ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
-
-      - name: Checkout universal-client
-        if: ${{ env.project_project_media_player == 'universal' }}
-        uses: actions/checkout@v4
-        with:
-          repository: AVAnnotate/universal-client
-          path: "./client"
-          ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}            
 
       - name: npm install
         working-directory: "./client"
@@ -89,8 +72,8 @@ jobs:
         uses: withastro/action@v2
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         with:
-            path:  "./client"
-            
+          path: "./client"
+
       - name: Deploy to GitHub Pages
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: deployment
